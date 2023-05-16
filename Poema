@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <p align="center"> <font color="gray" size="5"> José </font></p>
+        <p align="right"> Carlos Drummond de Andrade </p>
+    <b> <font color="blue" size="6">E agora, José? </font> </b> <br>
+    <i> <font color="gray" size="6">a festa acabou,</font> </i>
+        <p> <font color="gray" size="4">a luz apagou,</font> </p>
+    <font color="green" size="6"> <u> o povo sumiu, </u> </font>
+        <p> <font color="FF3399" size="7"> a noite esfriou, </font></p>
+        <p align="center"> <font color="red" size="6">&lt;e agora, José?&gt;</font></p>
+
+</body>
+</html>
